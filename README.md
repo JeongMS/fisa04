@@ -8,8 +8,7 @@
 일반 글자
 ---
 <hr>
-***
-수평선
+*** 수평선 ***
 add new line
 
 add third line
