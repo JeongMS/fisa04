@@ -8,7 +8,8 @@
 일반 글자
 ---
 <hr>
-*** 수평선 ***
+**진하게**
+~~취소~~ 
 add new line
 
 add third line
